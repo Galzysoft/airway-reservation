@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "816894390142",
+    "project_id": "airway-reservation",
+    "storage_bucket": "airway-reservation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816894390142:android:cadef1531be399254c8d2f",
+        "android_client_info": {
+          "package_name": "com.example.airway_reservation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816894390142-9l9svkebjc9lmsa74shd1thmcks46ln5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGutUgsIn_n2PXjvNGATyI_MPgUxtldfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816894390142-9l9svkebjc9lmsa74shd1thmcks46ln5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "816894390142-oo5r768o41ovf8ak3pd2c63gp5pespnt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.airwayReservation"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
